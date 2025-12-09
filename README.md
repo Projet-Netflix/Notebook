@@ -39,7 +39,7 @@ jupyter notebook netflix_analysis.ipynb
 streamlit run streamlit_app.py
 ```
 
-L'application sera accessible à l'adresse : `http://`
+L'application sera accessible à l'adresse : `https://notebook-du9sy7nhhju9ntdzg72hxu.streamlit.app/`
 
 ## Technologies utilisées
 
